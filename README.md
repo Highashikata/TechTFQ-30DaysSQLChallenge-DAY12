@@ -9,7 +9,7 @@ going through the challenge of SQL interview questions featured in the TechTFQ c
 
 In this repository we will be going through the SQL interview questions featured in the following YouTube video [SQL Interview Questions](https://www.youtube.com/watch?v=KrUIQAcFptY&list=PLavw5C92dz9Hxz0YhttDniNgKejQlPoAn&index=12).
 
-# **Day 12: The problem statement: Split Hierarchy **
+### Day 12: The problem statement: Split Hierarchy
 
 
 **PROBLEM STATEMENT :**
