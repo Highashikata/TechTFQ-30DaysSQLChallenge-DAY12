@@ -19,6 +19,7 @@ Write an SQL query to split the hierarchy and show the employees corresponding t
 ![image](https://github.com/Highashikata/TechTFQ-30DaysSQLChallenge-DAY12/assets/96960411/a06715ed-6889-45a3-8366-d08bf3f58b67)
 
 **INPUT**
+
 ![image](https://github.com/Highashikata/TechTFQ-30DaysSQLChallenge-DAY12/assets/96960411/5de644cb-ec4b-42c0-a2eb-27bc9277119b)
 
 **EXPECTED OUTPUT**
